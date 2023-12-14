@@ -18,7 +18,7 @@ import {
 } from "./ui/select";
 import { Button } from "./ui/button";
 import { Alert, AlertDescription, AlertTitle } from "./ui/alert";
-import Result from "./ui/Result";
+import Result from "./Result";
 import { mortgageYears } from "./utils/utils";
 import {
   IMortgageCalculatorProps,
