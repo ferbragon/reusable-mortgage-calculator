@@ -4,7 +4,7 @@ React component that calculates the monthly price of your mortgage. You can ente
 
 # Test the Mortgage Calculator
 
-You can test the mortgage calculator at the following link:
+You can test the mortgage calculator at the following link: https://reusable-mortgage-calculator.vercel.app/
 
 ## If you want to integrate the mortgage calculator into your Next.js project, you should:
 
