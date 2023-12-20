@@ -24,7 +24,19 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 First, clone this repo using https://github.com/ferbragon/reusable-mortgage-calculator.git or the options provided by GitHub.
 
-Second, start the server.
+Second, instal the dependencies with
+
+```bash
+npm install
+# or
+yarn install
+# or
+pnpm install
+# or
+bun install
+```
+
+Third, start the server.
 
 ```bash
 npm run dev
